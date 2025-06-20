@@ -39,7 +39,7 @@ Bu proje, üniversitedeki bir ders kapsamında geliştirdiğim Unity tabanlı **
 - C#
 
 ## Geliştirici Bilgileri
-- İsim: Ahmet Emin GENÇ
+- İsim: Ahmet Emin GENÇ ve Mehmet TOPRAK
 - Üniversite: Ege Üniversitesi
 - Bölüm: Ön Yüz Yazılım Geliştirme
-- Öğrenci Numarası: 19240001409
+- Öğrenci Numarası: 19240001409 ve 19240001408
